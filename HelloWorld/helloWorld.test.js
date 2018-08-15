@@ -1,5 +1,5 @@
-const helloWorld = require('./helloWorld.js');
+const helloWorld = require("./helloWorld.js");
 
-test('prints hello world', () => {
-  expect(helloWorld('Hello world!')).toBe('Hello world!');
+test("prints hello world", () => {
+  expect(helloWorld("Hello world!")).toBe("Hello world!");
 });

@@ -1,5 +1,5 @@
-function helloWorld (string){
-	return string;
+function helloWorld(string) {
+  return string;
 }
 
 module.exports = helloWorld;
