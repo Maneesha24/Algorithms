@@ -5,7 +5,7 @@ test("To find the roots of a quadratic equation", () => {
 });
 
 test("To find the roots of a quadratic equation", () => {
-  expect(quadEqRoots(2, -4, -3)).toBe((2.58 , -0.58));
+  expect(quadEqRoots(2, -4, -3)).toBe((2.58, -0.58));
 });
 
 test("To find the roots of a quadratic equation", () => {
