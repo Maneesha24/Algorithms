@@ -34,7 +34,7 @@ class Queue{
       return;
     }
     this.head = this.head.next;
-    this.length--;
-    
+    return this.length--;
+
   }
 }
